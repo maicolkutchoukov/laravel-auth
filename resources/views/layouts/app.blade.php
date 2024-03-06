@@ -24,6 +24,9 @@
                                 <a class="nav-link" href="{{ route('admin.dashboard') }}">Dashboard</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link" href="{{ route('admin.posts.index') }}">Post</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link" href="#">Link 2</a>
                             </li>
                             <li class="nav-item">
